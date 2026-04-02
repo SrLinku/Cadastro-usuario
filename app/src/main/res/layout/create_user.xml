@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Inserir novvos dados"
+        android:text="Inserir novos dados"
         android:textSize="24sp"
         />
 
@@ -30,7 +30,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Inserir novvos dados"
+        android:text="Inserir novos dados"
         android:textSize="24sp"
         />
 
